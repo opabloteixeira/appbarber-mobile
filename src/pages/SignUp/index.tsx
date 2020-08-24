@@ -1,10 +1,9 @@
 import React from 'react';
+
 import { Container } from './styled';
 
 const SignUp: React.FC = () => {
-    return (
-      <Container />
-    )
-  }
+  return <Container />;
+};
 
 export default SignUp;
